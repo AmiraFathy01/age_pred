@@ -1,5 +1,7 @@
 Project Name: Age Prediction from Images
+
 Overview
+
 This project uses machine learning to predict a person's age range from an input image. Given a facial image, the system analyzes visual features and returns an estimated age range (e.g., 20-30, 30-40, etc.).
 
 Key Features
