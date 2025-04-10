@@ -6,7 +6,7 @@ A deep learning project that predicts age ranges from facial images with a singl
 
 
 ## 🎥 Demo Video
-[![Demo Video](assets/video_thumbnail.png)](https://drive.google.com/file/d/1yDRs-_32QjpvV_Zunei-2a8ipnnOZ7KZ/view?usp=sharing) <!-- Upload video to YouTube and embed -->
+[![Demo Video](🚀)](https://drive.google.com/file/d/1yDRs-_32QjpvV_Zunei-2a8ipnnOZ7KZ/view?usp=sharing) <!-- Upload video to YouTube and embed -->
 
 ## ✨ Features
 - 📷 Face detection and alignment
