@@ -20,8 +20,8 @@ A deep learning project that predicts age ranges from facial images with a singl
 ## 🖼️ Sample Results
 | Input Image | Prediction |
 |-------------|------------|
-| ![Sample1](mo.png) | Predicted Age: 25-30 |
-| ![Sample2](elon.png) | Predicted Age: 40-45 |
+| ![Sample1](mo.png) | Predicted Age: 26-33 |
+| ![Sample2](elon.png) | Predicted Age: 42-49 |
 
 ## 🛠️ Installation
 ```bash
