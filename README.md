@@ -19,6 +19,34 @@ A deep learning project that predicts age ranges from facial images with a singl
 |-------------|------------|
 | ![Sample1](mo.png) | Predicted Age: 26-33 |
 | ![Sample2](elon.png) | Predicted Age: 42-49 |
+| ![Sample3](group1.png) | Predicted Age:
+[22 - 29]
+
+[26 - 33]
+
+[19 - 26]
+
+[28 - 35]
+
+[21 - 28]
+
+[27 - 34]
+
+[21 - 28]
+
+[25 - 32]
+
+[41 - 48]
+
+[29 - 36]
+
+[25 - 32]
+
+[20 - 27]
+
+[30 - 37]
+
+[32 - 39] |
 
 
 
