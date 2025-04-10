@@ -22,11 +22,22 @@ A deep learning project that predicts age ranges from facial images with a singl
 
 
 
-Technology Stack
-Python 3.9
-TensorFlow/Keras 
-OpenCV (for face detection)
-Firebase (for database)
-fastapi ( for api)
+## 🛠️ Technology Stack
 
+### Core Technologies
+| Category       | Technology                                                                 | Purpose                          |
+|----------------|---------------------------------------------------------------------------|----------------------------------|
+| **Language**   | ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python)     | Core programming language        |
+| **ML Framework** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-FF6F00?logo=tensorflow) | Deep learning model development  |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-5C3EE8?logo=opencv) | Face detection and image processing |
+| **Backend**    | ![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-009688?logo=fastapi) | REST API implementation          |
+| **Database**   | ![Firebase](https://img.shields.io/badge/Firebase-Cloud-FFCA28?logo=firebase) | User data storage and management  |
+
+### Key Libraries
+```python
+- NumPy        # Numerical operations
+- Pandas       # Data handling
+- Matplotlib   # Visualization
+- Dlib         # Facial landmark detection (optional)
+- Pillow       # Image processing
 
