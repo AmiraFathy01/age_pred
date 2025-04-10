@@ -24,14 +24,156 @@ A deep learning project that predicts age ranges from facial images with a singl
 
 ## 🛠️ Technology Stack
 
-### Core Technologies
-| Category       | Technology                                                                 | Purpose                          |
-|----------------|---------------------------------------------------------------------------|----------------------------------|
-| **Language**   | ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python)     | Core programming language        |
-| **ML Framework** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-FF6F00?logo=tensorflow) | Deep learning model development  |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-5C3EE8?logo=opencv) | Face detection and image processing |
-| **Backend**    | ![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-009688?logo=fastapi) | REST API implementation          |
-| **Database**   | ![Firebase](https://img.shields.io/badge/Firebase-Cloud-FFCA28?logo=firebase) | User data storage and management  |
+### Core Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org/downloads/release/python-3913/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python">
+        <br>
+        <b>Python 3.9+</b>
+      </a>
+      <br>
+      <a href="https://www.python.org/downloads/release/python-3913/">
+        <img src="https://img.shields.io/badge/Download-3.9.13-blue?logo=python">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow">
+        <br>
+        <b>TensorFlow 2.12+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/tensorflow/">
+        <img src="https://img.shields.io/badge/Download-2.12.0-FF6F00?logo=tensorflow">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="60" height="60" alt="FastAPI">
+        <br>
+        <b>FastAPI 0.95+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/fastapi/">
+        <img src="https://img.shields.io/badge/Download-0.95.2-009688?logo=fastapi">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Computer Vision & AI
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV">
+        <br>
+        <b>OpenCV 4.7+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/opencv-python/">
+        <img src="https://img.shields.io/badge/Download-4.7.0.72-5C3EE8?logo=opencv">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="http://dlib.net/" target="_blank">
+        <img src="https://raw.githubusercontent.com/wiki/davisking/dlib/images/dlib_logo.png" width="60" height="60" alt="dlib">
+        <br>
+        <b>dlib 19.24+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/dlib/">
+        <img src="https://img.shields.io/badge/Download-19.24.1-008000">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/serengil/deepface" target="_blank">
+        <img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon.png" width="60" height="60" alt="DeepFace">
+        <br>
+        <b>DeepFace 0.0.79+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/deepface/">
+        <img src="https://img.shields.io/badge/Download-0.0.79-black">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Essential Libraries
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy">
+        <br>
+        <b>NumPy 1.24+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/numpy/">
+        <img src="https://img.shields.io/badge/Download-1.24.3-013243?logo=numpy">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://python-pillow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pillow/pillow-original.svg" width="60" height="60" alt="Pillow">
+        <br>
+        <b>Pillow 9.5+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/Pillow/">
+        <img src="https://img.shields.io/badge/Download-9.5.0-3776AB">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://firebase.google.com/docs/admin/setup" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase">
+        <br>
+        <b>Firebase Admin 6.4+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/firebase-admin/">
+        <img src="https://img.shields.io/badge/Download-6.2.0-FFCA28?logo=firebase">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Web & Utilities
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.uvicorn.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.png" width="60" height="60" alt="Uvicorn">
+        <br>
+        <b>Uvicorn 0.22+</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/uvicorn/">
+        <img src="https://img.shields.io/badge/Download-0.22.0-499848">
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://andrew-d.github.io/python-multipart/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Andrew-D/python-multipart/master/logo.png" width="60" height="60" alt="python-multipart">
+        <br>
+        <b>python-multipart</b>
+      </a>
+      <br>
+      <a href="https://pypi.org/project/python-multipart/">
+        <img src="https://img.shields.io/badge/Download-0.0.6-blueviolet">
+      </a>
+    </td>
+  </tr>
+</table>
+
+> All version numbers are minimum requirements. For production use, pin exact versions in `requirements.txt`
 
 ### Key Libraries
 ```python
