@@ -1,12 +1,9 @@
 # 👨🦳👩 Age Prediction from Images 🧒👵
 
-![Project Banner](assets/banner.png) <!-- Add your banner image -->
 
 A deep learning project that predicts age ranges from facial images with a single photo input.
 
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/)
+
 
 ## 🎥 Demo Video
 [![Demo Video](assets/video_thumbnail.png)](https://youtu.be/your-video-link) <!-- Upload video to YouTube and embed -->
@@ -23,11 +20,7 @@ A deep learning project that predicts age ranges from facial images with a singl
 | ![Sample1](mo.png) | Predicted Age: 26-33 |
 | ![Sample2](elon.png) | Predicted Age: 42-49 |
 
-## 🛠️ Installation
-```bash
-git clone https://github.com/yourusername/age-prediction.git
-cd age-prediction
-pip install -r requirements.txt
+
 
 Technology Stack
 Python 3.9
